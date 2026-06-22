@@ -1,0 +1,52 @@
+[
+  {
+    "naam": "Zonnehoed",
+    "latijnse_naam": "Echinacea purpurea",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 80,
+    "beschrijving": "Trekt vlinders en bijen aan, lange bloeitijd."
+  },
+  {
+    "naam": "Hosta",
+    "latijnse_naam": "Hosta sieboldiana",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 50,
+    "beschrijving": "Decoratief blad, ideaal voor schaduwborders."
+  },
+  {
+    "naam": "Lavendel",
+    "latijnse_naam": "Lavandula angustifolia",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Droog, kalkrijk, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Geurend en bijvriendelijk, houdt niet van natte voeten."
+  },
+  {
+    "naam": "Hortensia",
+    "latijnse_naam": "Hydrangea macrophylla",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Bloemkleur kan afhangen van de pH van de grond."
+  },
+  {
+    "naam": "Vingerhoedskruid",
+    "latijnse_naam": "Digitalis purpurea",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 120,
+    "beschrijving": "Let op: giftig bij inname."
+  }
+]
