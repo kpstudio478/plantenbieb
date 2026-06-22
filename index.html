@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plantenzoeker — vind de juiste plant voor jouw tuin</title>
+<meta name="description" content="Zoek planten op naam en bekijk bloeiperiode, lichtbehoefte en grondsoort.">
+<meta name="color-scheme" content="light">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,560;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #F7F4EC;
+    --ink: #2B3A29;
+    --earth: #8B6F47;
+    --ochre: #D4A95A;
+    --leaf: #5C7A5A;
+    --card: #FFFFFF;
+    --line: #E3DCC8;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 24px;}
+
+  header{padding:64px 0 32px;text-align:center;}
+  .eyebrow{
+    font-size:13px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--leaf);font-weight:600;margin-bottom:14px;
+  }
+  h1{
+    font-family:'Fraunces', serif;
+    font-weight:560;
+    font-size:clamp(34px,5vw,54px);
+    line-height:1.05;
+    margin:0 0 14px;
+    letter-spacing:-0.01em;
+  }
+  header p{
+    color:#5b5b50;font-size:17px;max-width:480px;margin:0 auto;line-height:1.55;
+  }
+
+  .search-area{padding:8px 0 28px;}
+  .search-box{
+    display:flex;align-items:center;gap:10px;
+    background:var(--card);
+    border:1.5px solid var(--line);
+    border-radius:14px;
+    padding:14px 18px;
+    box-shadow:0 1px 2px rgba(43,58,41,0.04);
+  }
+  .search-box:focus-within{border-color:var(--leaf);}
+  .search-box svg{flex-shrink:0;color:var(--earth);}
+  .search-box input{
+    border:none;outline:none;background:transparent;
+    font-family:'Inter',sans-serif;font-size:16px;color:var(--ink);width:100%;
+  }
+  .search-box input::placeholder{color:#9a9a8c;}
+
+  .count-row{
+    display:flex;justify-content:space-between;align-items:baseline;
+    margin-top:18px;font-size:14px;color:#7a7a6d;
+  }
+  .count-row strong{color:var(--ink);}
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(300px,1fr));
+    gap:18px;
+    padding:18px 0 80px;
+  }
+
+  .card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:16px;
+    padding:22px;
+    display:flex;flex-direction:column;gap:10px;
+    transition:transform .18s ease, box-shadow .18s ease;
+  }
+  .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(43,58,41,0.08);}
+
+  .card h3{
+    font-family:'Fraunces',serif;
+    font-weight:650;
+    font-size:22px;
+    margin:0;
+    line-height:1.2;
+  }
+  .latin{
+    font-style:italic;color:var(--earth);font-size:13.5px;margin-top:-6px;
+  }
+
+  .months-block{margin:8px 0 4px;}
+  .months-label{
+    font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+    color:#9a9a8c;font-weight:600;margin-bottom:6px;
+  }
+  .months{
+    display:flex;gap:3px;
+  }
+  .month{
+    flex:1;height:20px;border-radius:4px;background:#ECE7D9;
+    position:relative;
+  }
+  .month.bloom{background:var(--ochre);}
+  .month-letters{
+    display:flex;gap:3px;margin-top:3px;
+  }
+  .month-letters span{
+    flex:1;text-align:center;font-size:9px;color:#b3ad9b;font-weight:600;
+  }
+  .month-letters span.bloom{color:var(--earth);}
+
+  .traits{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:8px;
+    margin-top:10px;
+  }
+  .trait{
+    background:#F8F6EF;
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:10px 12px;
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+  }
+  .trait.full{grid-column:1 / -1;}
+  .trait-icon{font-size:17px;line-height:1;}
+  .trait-label{
+    font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;
+    color:#9a9a8c;font-weight:600;margin-top:2px;
+  }
+  .trait-value{
+    font-size:14px;color:var(--ink);font-weight:600;line-height:1.3;
+  }
+
+  .desc{font-size:14px;color:#5b5b50;line-height:1.55;margin-top:6px;padding-top:10px;border-top:1px solid var(--line);}
+
+  .empty{
+    text-align:center;padding:60px 0;color:#8a8a7c;
+  }
+  .empty span{font-size:32px;display:block;margin-bottom:10px;}
+
+  footer{
+    text-align:center;padding:30px 0 50px;font-size:13px;color:#9a9a8c;
+  }
+
+  @media (max-width:480px){
+    header{padding:44px 0 24px;}
+    .grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Plantenzoeker</div>
+    <h1>Vind de juiste plant<br>voor jouw plek</h1>
+    <p>Zoek op plantnaam en ontdek meteen de bloeiperiode, lichtbehoefte en grondsoort.</p>
+  </header>
+
+  <div class="search-area">
+    <div class="search-box">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="search" type="text" placeholder="Zoek op plantnaam, bv. 'lavendel'..." autocomplete="off">
+    </div>
+    <div class="count-row">
+      <span><strong id="count">0</strong> planten gevonden</span>
+      <span id="total-label"></span>
+    </div>
+  </div>
+
+  <div id="grid" class="grid"></div>
+  <div id="empty" class="empty" style="display:none;">
+    <span>🌱</span>
+    Geen planten gevonden. Probeer een andere zoekterm.
+  </div>
+
+  <footer>Data wordt beheerd via Excel · bijgewerkt door de beheerder</footer>
+</div>
+
+<script>
+const MAANDEN = ["Januari","Februari","Maart","April","Mei","Juni","Juli","Augustus","September","Oktober","November","December"];
+
+function maandIndex(naam){ return MAANDEN.indexOf(naam); }
+
+function bloeiMaanden(start, eind){
+  const s = maandIndex(start), e = maandIndex(eind);
+  if(s === -1 || e === -1) return [];
+  let result = [];
+  if(s <= e){
+    for(let i=s;i<=e;i++) result.push(i);
+  } else {
+    for(let i=s;i<12;i++) result.push(i);
+    for(let i=0;i<=e;i++) result.push(i);
+  }
+  return result;
+}
+
+function renderMonthBar(start, eind){
+  const active = new Set(bloeiMaanden(start, eind));
+  const LETTERS = ["J","F","M","A","M","J","J","A","S","O","N","D"];
+  let bars = '<div class="months">';
+  let letters = '<div class="month-letters">';
+  for(let i=0;i<12;i++){
+    const isBloom = active.has(i);
+    bars += `<div class="month${isBloom ? ' bloom' : ''}" title="${MAANDEN[i]}"></div>`;
+    letters += `<span${isBloom ? ' class="bloom"' : ''}>${LETTERS[i]}</span>`;
+  }
+  bars += '</div>';
+  letters += '</div>';
+  return `<div class="months-block"><div class="months-label">Bloeiperiode</div>${bars}${letters}</div>`;
+}
+
+function cardHTML(p){
+  return `
+    <div class="card">
+      <h3>${escapeHTML(p.naam)}</h3>
+      ${p.latijnse_naam ? `<div class="latin">${escapeHTML(p.latijnse_naam)}</div>` : ''}
+      ${renderMonthBar(p.bloei_start, p.bloei_eind)}
+      <div class="traits">
+        ${p.licht ? `
+        <div class="trait">
+          <div class="trait-icon">☀️</div>
+          <div class="trait-label">Lichtbehoefte</div>
+          <div class="trait-value">${escapeHTML(p.licht)}</div>
+        </div>` : ''}
+        ${p.hoogte ? `
+        <div class="trait">
+          <div class="trait-icon">📏</div>
+          <div class="trait-label">Hoogte</div>
+          <div class="trait-value">${escapeHTML(String(p.hoogte))} cm</div>
+        </div>` : ''}
+        ${p.grond ? `
+        <div class="trait full">
+          <div class="trait-icon">🌍</div>
+          <div class="trait-label">Grondsoort</div>
+          <div class="trait-value">${escapeHTML(p.grond)}</div>
+        </div>` : ''}
+      </div>
+      ${p.beschrijving ? `<div class="desc">${escapeHTML(p.beschrijving)}</div>` : ''}
+    </div>
+  `;
+}
+
+function escapeHTML(str){
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+let ALL_PLANTS = [];
+
+function matchesQuery(p, q){
+  if(!q) return true;
+  const haystack = [p.naam, p.latijnse_naam].join(' ').toLowerCase();
+  return q.toLowerCase().split(/\s+/).every(term => haystack.includes(term));
+}
+
+function render(){
+  const q = document.getElementById('search').value.trim();
+  const filtered = ALL_PLANTS.filter(p => matchesQuery(p, q));
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+
+  document.getElementById('count').textContent = filtered.length;
+
+  if(filtered.length === 0){
+    grid.innerHTML = '';
+    empty.style.display = 'block';
+  } else {
+    empty.style.display = 'none';
+    grid.innerHTML = filtered.map(cardHTML).join('');
+  }
+}
+
+fetch('planten.json')
+  .then(r => r.json())
+  .then(data => {
+    ALL_PLANTS = data;
+    document.getElementById('total-label').textContent = `${data.length} planten in de database`;
+    render();
+  })
+  .catch(err => {
+    document.getElementById('grid').innerHTML = `<div class="empty"><span>⚠️</span>Kon planten.json niet laden. Staat het bestand naast index.html?</div>`;
+    console.error(err);
+  });
+
+document.getElementById('search').addEventListener('input', render);
+</script>
+
+</body>
+</html>
