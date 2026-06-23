@@ -3560,5 +3560,39 @@
     "grond": "Vochthoudend, voedingsrijk",
     "hoogte": 15,
     "beschrijving": "Kruipend inheems kruid met blauwpaarse bloemen en muntachtige geur."
+  },
+  {
+     "naam": "Anijs-ysop",
+    "latijnse_naam": "Agastache foeniculum",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 80,
+    "beschrijving": "Geurende paarse bloemen, trekt veel bijen en vlinders aan."
+  },
+  {
+    "naam": "Peruvialelie",
+    "latijnse_naam": "Alstroemeria aurea",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorla…Carya illinoinensis",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Diep, voedingsrijk",
+    "hoogte": 2000,
+    "beschrijving": "Grote boom met eetbare noten."
+  },
+  {
+    "naam": "Paranoot",
+    "latijnse_naam": "Bertholletia excelsa",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 4000,
+    "beschrijving": "Tropische boom met grote eetbare noten."
   }
 ]
