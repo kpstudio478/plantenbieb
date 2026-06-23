@@ -3528,7 +3528,7 @@
     "grond": "Voedingsarm, goed doorlatend",
     "hoogte": 2000,
     "beschrijving": "Inheemse boom met witte schors en hangende takken, herfstkleur geel."
-   },
+  },
   {
     "naam": "Asperge",
     "latijnse_naam": "Asparagus officinalis",
@@ -3545,7 +3545,15 @@
     "bloei_start": "Niet bloeiend",
     "bloei_eind": "Niet bloeiend",
     "licht": "Halfschaduw",
-    "grond…er",
+    "grond": "Humusrijk, goed doorlatend",
+    "hoogte": 300,
+    "beschrijving": "Niet woekerende bamboe, geschikt als haag of solitair."
+  },
+  {
+    "naam": "Brandnetel",
+    "latijnse_naam": "Urtica dioica",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
     "licht": "Halfschaduw",
     "grond": "Voedingsrijk, stikstofrijk",
     "hoogte": 120,
