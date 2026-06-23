@@ -48,5 +48,2635 @@
     "grond": "Voedingsrijk, goed doorlatend",
     "hoogte": 120,
     "beschrijving": "Let op: giftig bij inname."
+  },
+  {
+    "naam": "Margriet",
+    "latijnse_naam": "Leucanthemum vulgare",
+    "bloei_start": "Mei",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Klassieke witte bloemen met geel hart, goed voor bijen."
+  },
+  {
+    "naam": "Aster",
+    "latijnse_naam": "Aster novi-belgii",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 90,
+    "beschrijving": "Laatbloeier die de border kleur geeft tot in de herfst."
+  },
+  {
+    "naam": "Pioenroos",
+    "latijnse_naam": "Paeonia lactiflora",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 70,
+    "beschrijving": "Grote, geurende bloemen, lang houdbaar in een border."
+  },
+  {
+    "naam": "Vrouwenmantel",
+    "latijnse_naam": "Alchemilla mollis",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 40,
+    "beschrijving": "Decoratief blad met waterdruppeleffect, vaak gebruikt als bodembedekker."
+  },
+  {
+    "naam": "Daglelie",
+    "latijnse_naam": "Hemerocallis hybride",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 70,
+    "beschrijving": "Iedere bloem bloeit maar één dag, maar de plant blijft lang doorbloeien."
+  },
+  {
+    "naam": "Kogeldistel",
+    "latijnse_naam": "Echinops ritro",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 80,
+    "beschrijving": "Blauwe bolvormige bloemen, populair bij bijen."
+  },
+  {
+    "naam": "Vlambloem",
+    "latijnse_naam": "Phlox paniculata",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 90,
+    "beschrijving": "Geurende pluimen, trekt vlinders aan."
+  },
+  {
+    "naam": "Duizendblad",
+    "latijnse_naam": "Achillea millefolium",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Droog tot matig vochtig, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Plat bloemscherm, goed bestand tegen droogte."
+  },
+  {
+    "naam": "Kattenstaart",
+    "latijnse_naam": "Lythrum salicaria",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Vochtig tot natte grond",
+    "hoogte": 100,
+    "beschrijving": "Geschikt voor vijverranden en natte borders."
+  },
+  {
+    "naam": "Sierui",
+    "latijnse_naam": "Allium hollandicum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 70,
+    "beschrijving": "Bolvormige paarse bloemhoofden op lange stelen."
+  },
+  {
+    "naam": "Salie",
+    "latijnse_naam": "Salvia nemorosa",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, kalkrijk",
+    "hoogte": 50,
+    "beschrijving": "Compacte plant met paarsblauwe bloeispikes, bijvriendelijk."
+  },
+  {
+    "naam": "Lupine",
+    "latijnse_naam": "Lupinus polyphyllus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 100,
+    "beschrijving": "Opvallende kaarsvormige bloemtrossen in vele kleuren."
+  },
+  {
+    "naam": "Vingerhelmbloem",
+    "latijnse_naam": "Dicentra spectabilis",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 60,
+    "beschrijving": "Hartvormige bloemen aan boogvormige stengels."
+  },
+  {
+    "naam": "Sneeuwroem",
+    "latijnse_naam": "Chionodoxa luciliae",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 15,
+    "beschrijving": "Vroege bolbloeier met stervormige blauwe bloemen."
+  },
+  {
+    "naam": "Anjer",
+    "latijnse_naam": "Dianthus caryophyllus",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, kalkrijk",
+    "hoogte": 40,
+    "beschrijving": "Geurende bloemen, klassiek in border en perk."
+  },
+  {
+    "naam": "IJzerhard",
+    "latijnse_naam": "Verbena bonariensis",
+    "bloei_start": "Juli",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 120,
+    "beschrijving": "Doorzichtige plant met paarse bloemschermen, trekt vlinders aan."
+  },
+  {
+    "naam": "Bergamotplant",
+    "latijnse_naam": "Monarda didyma",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 90,
+    "beschrijving": "Geurig blad, populair bij bijen en kolibrievlinders."
+  },
+  {
+    "naam": "Christoffelkruid",
+    "latijnse_naam": "Actaea spicata",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 50,
+    "beschrijving": "Bosplant met witte bloeiaren, later giftige zwarte bessen."
+  },
+  {
+    "naam": "Ridderspoor",
+    "latijnse_naam": "Delphinium elatum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Hoge bloeiaren in blauwtinten, behoeft windluwe plek."
+  },
+  {
+    "naam": "Guldenroede",
+    "latijnse_naam": "Solidago canadensis",
+    "bloei_start": "Augustus",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Felgele bloemtrossen, laat in het seizoen waardevol voor insecten."
+  },
+  {
+    "naam": "Sierdistel",
+    "latijnse_naam": "Eryngium giganteum",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog",
+    "hoogte": 90,
+    "beschrijving": "Zilverblauwe stekelige schutbladen, decoratief en droogbestendig."
+  },
+  {
+    "naam": "Kraagsteenkruid",
+    "latijnse_naam": "Tiarella cordifolia",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 30,
+    "beschrijving": "Bodembedekker met fijne witte bloeipluimen."
+  },
+  {
+    "naam": "Toorts",
+    "latijnse_naam": "Verbascum thapsus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Hoge bloeispikes met gele bloemetjes, zelfzaaiend."
+  },
+  {
+    "naam": "Veronica",
+    "latijnse_naam": "Veronica spicata",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 50,
+    "beschrijving": "Smalle blauwe bloeiaren, geschikt voor randen."
+  },
+  {
+    "naam": "Zonnebloem (vast)",
+    "latijnse_naam": "Helianthus x multiflorus",
+    "bloei_start": "Augustus",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Meerjarige zonnebloem met talrijke gele bloemen."
+  },
+  {
+    "naam": "Sierspirea",
+    "latijnse_naam": "Filipendula rubra",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend tot natte grond",
+    "hoogte": 150,
+    "beschrijving": "Roze pluimen, goed voor vochtige borders en oevers."
+  },
+  {
+    "naam": "Beemdkroon",
+    "latijnse_naam": "Knautia macedonica",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 70,
+    "beschrijving": "Donkerrode pluisbloemen, lange bloeitijd, trekt vlinders aan."
+  },
+  {
+    "naam": "Maagdenpalm",
+    "latijnse_naam": "Vinca minor",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 15,
+    "beschrijving": "Groenblijvende bodembedekker met blauwpaarse bloempjes."
+  },
+  {
+    "naam": "Schapengras",
+    "latijnse_naam": "Festuca glauca",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 25,
+    "beschrijving": "Blauwgrijs siergras, vormt compacte pollen."
+  },
+  {
+    "naam": "Pampagras",
+    "latijnse_naam": "Cortaderia selloana",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 200,
+    "beschrijving": "Grote sierpluimen, indrukwekkend als solitair gewas."
+  },
+  {
+    "naam": "Vedergras",
+    "latijnse_naam": "Stipa tenuissima",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 50,
+    "beschrijving": "Fijn, wuivend siergras, decoratief in elke border."
+  },
+  {
+    "naam": "Japanse anemoon",
+    "latijnse_naam": "Anemone hupehensis",
+    "bloei_start": "Augustus",
+    "bloei_eind": "Oktober",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 80,
+    "beschrijving": "Late bloeier met fijne roze of witte bloemen."
+  },
+  {
+    "naam": "Hemelsleutel",
+    "latijnse_naam": "Hylotelephium spectabile",
+    "bloei_start": "Augustus",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 50,
+    "beschrijving": "Vlezige bladeren en roze bloemschermen, populair bij bijen."
+  },
+  {
+    "naam": "Christusoog",
+    "latijnse_naam": "Inula hookeri",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 60,
+    "beschrijving": "Zachtgele madeliefjesachtige bloemen."
+  },
+  {
+    "naam": "Brunnera",
+    "latijnse_naam": "Brunnera macrophylla",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 40,
+    "beschrijving": "Hartvormig blad en kleine blauwe bloempjes, lijkt op vergeet-mij-nietje."
+  },
+  {
+    "naam": "Longkruid",
+    "latijnse_naam": "Pulmonaria officinalis",
+    "bloei_start": "Maart",
+    "bloei_eind": "Mei",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 25,
+    "beschrijving": "Gevlekt blad en vroege roze tot blauwe bloemetjes."
+  },
+  {
+    "naam": "Hosta (Blue)",
+    "latijnse_naam": "Hosta 'Blue Angel'",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 75,
+    "beschrijving": "Grote blauwgroene bladeren, robuuste schaduwplant."
+  },
+  {
+    "naam": "Schildvaren",
+    "latijnse_naam": "Polystichum setiferum",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 50,
+    "beschrijving": "Wintergroene varen met sierlijk, ingesneden blad."
+  },
+  {
+    "naam": "Struisvaren",
+    "latijnse_naam": "Matteuccia struthiopteris",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 100,
+    "beschrijving": "Sierlijke trechtervormige bladbundels, goed in vochtige schaduw."
+  },
+  {
+    "naam": "Hartzeggevaren",
+    "latijnse_naam": "Dryopteris filix-mas",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 80,
+    "beschrijving": "Robuuste, makkelijke varen voor schaduwrijke plekken."
+  },
+  {
+    "naam": "Tulp",
+    "latijnse_naam": "Tulipa gesneriana",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 40,
+    "beschrijving": "Klassieke voorjaarsbol in vele kleuren."
+  },
+  {
+    "naam": "Narcis",
+    "latijnse_naam": "Narcissus pseudonarcissus",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 35,
+    "beschrijving": "Gele trompetbloemen, een van de eerste voorjaarsbollen."
+  },
+  {
+    "naam": "Krokus",
+    "latijnse_naam": "Crocus vernus",
+    "bloei_start": "Februari",
+    "bloei_eind": "Maart",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Een van de vroegste bloeiers, ideaal in gazon of border."
+  },
+  {
+    "naam": "Hyacint",
+    "latijnse_naam": "Hyacinthus orientalis",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 25,
+    "beschrijving": "Sterk geurende bloemtrossen in diverse kleuren."
+  },
+  {
+    "naam": "Sneeuwklokje",
+    "latijnse_naam": "Galanthus nivalis",
+    "bloei_start": "Januari",
+    "bloei_eind": "Maart",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 15,
+    "beschrijving": "Eerste bloeier van het jaar, witte hangende bloempjes."
+  },
+  {
+    "naam": "Dahlia",
+    "latijnse_naam": "Dahlia pinnata",
+    "bloei_start": "Juli",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Knolgewas met grote, kleurrijke bloemen, niet vorstbestendig."
+  },
+  {
+    "naam": "Gladiool",
+    "latijnse_naam": "Gladiolus communis",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Hoge bloeispikes, populair als snijbloem."
+  },
+  {
+    "naam": "Lelie",
+    "latijnse_naam": "Lilium regale",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 120,
+    "beschrijving": "Grote, geurende trompetbloemen."
+  },
+  {
+    "naam": "Krokusje van herfst",
+    "latijnse_naam": "Colchicum autumnale",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 15,
+    "beschrijving": "Bloeit zonder blad in de herfst, alle delen giftig."
+  },
+  {
+    "naam": "Sierui Globemaster",
+    "latijnse_naam": "Allium 'Globemaster'",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 90,
+    "beschrijving": "Zeer grote paarse bloembollen op stevige stengel."
+  },
+  {
+    "naam": "Blauwe druifjes",
+    "latijnse_naam": "Muscari armeniacum",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 15,
+    "beschrijving": "Kleine blauwe trosjes, goed voor randjes en gazon."
+  },
+  {
+    "naam": "Anemoon (bol)",
+    "latijnse_naam": "Anemone blanda",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 15,
+    "beschrijving": "Sterachtige bloemetjes, mooi onder bomen en struiken."
+  },
+  {
+    "naam": "Fritillaria",
+    "latijnse_naam": "Fritillaria imperialis",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Kroon van hangende oranje bloemen op hoge stengel."
+  },
+  {
+    "naam": "Sneeuwroem grootbloemig",
+    "latijnse_naam": "Chionodoxa forbesii",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 15,
+    "beschrijving": "Vroege bolbloeier, verwildert goed in gazon."
+  },
+  {
+    "naam": "Winterakoniet",
+    "latijnse_naam": "Eranthis hyemalis",
+    "bloei_start": "Januari",
+    "bloei_eind": "Maart",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 10,
+    "beschrijving": "Gele bloempjes, bloeit vaak nog tussen de sneeuw."
+  },
+  {
+    "naam": "Bosanemoon",
+    "latijnse_naam": "Anemone nemorosa",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 15,
+    "beschrijving": "Inheemse witte bosbloeier, vormt tapijten in loofbossen."
+  },
+  {
+    "naam": "Kievitsbloem",
+    "latijnse_naam": "Fritillaria meleagris",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 30,
+    "beschrijving": "Geblokt gevlekte hangende bloemen, geschikt voor vochtig grasland."
+  },
+  {
+    "naam": "IJsbegonia",
+    "latijnse_naam": "Begonia tuberhybrida",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 30,
+    "beschrijving": "Knolbegonia met grote bloemen, populair in potten."
+  },
+  {
+    "naam": "Montbretia",
+    "latijnse_naam": "Crocosmia x crocosmiiflora",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 70,
+    "beschrijving": "Oranjerode trompetbloemen op boogvormige stengels."
+  },
+  {
+    "naam": "Sierknolbegonia",
+    "latijnse_naam": "Begonia grandis",
+    "bloei_start": "Augustus",
+    "bloei_eind": "Oktober",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 50,
+    "beschrijving": "Winterharde begonia met roze bloemetjes."
+  },
+  {
+    "naam": "Rododendron",
+    "latijnse_naam": "Rhododendron catawbiense",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, zuur, humusrijk",
+    "hoogte": 150,
+    "beschrijving": "Groenblijvende struik met grote bloemtrossen."
+  },
+  {
+    "naam": "Forsythia",
+    "latijnse_naam": "Forsythia x intermedia",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 200,
+    "beschrijving": "Felgele bloemen vóór het blad uitkomt, vroege voorjaarsboodschapper."
+  },
+  {
+    "naam": "Sering",
+    "latijnse_naam": "Syringa vulgaris",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 300,
+    "beschrijving": "Geurende pluimen in paars of wit, klassieke tuinstruik."
+  },
+  {
+    "naam": "Vlinderstruik",
+    "latijnse_naam": "Buddleja davidii",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 250,
+    "beschrijving": "Trekt veel vlinders aan, lange paarse bloeitrossen."
+  },
+  {
+    "naam": "Sneeuwbal",
+    "latijnse_naam": "Viburnum opulus",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 300,
+    "beschrijving": "Witte bolvormige bloemschermen, daarna rode bessen."
+  },
+  {
+    "naam": "Hibiscus (struik)",
+    "latijnse_naam": "Hibiscus syriacus",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 250,
+    "beschrijving": "Grote trompetbloemen, laatbloeiende heester."
+  },
+  {
+    "naam": "Hamamelis",
+    "latijnse_naam": "Hamamelis x intermedia",
+    "bloei_start": "Januari",
+    "bloei_eind": "Maart",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 250,
+    "beschrijving": "Bloeit in de winter met spinachtige gele tot oranje bloemen."
+  },
+  {
+    "naam": "Kerria",
+    "latijnse_naam": "Kerria japonica",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Felgele bloemen aan slanke groene takken."
+  },
+  {
+    "naam": "Deutzia",
+    "latijnse_naam": "Deutzia gracilis",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Witte sterbloempjes in dichte trosjes."
+  },
+  {
+    "naam": "Boerenjasmijn",
+    "latijnse_naam": "Philadelphus coronarius",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 300,
+    "beschrijving": "Sterk geurende witte bloemen, klassieke geurstruik."
+  },
+  {
+    "naam": "Spirea",
+    "latijnse_naam": "Spiraea japonica",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 80,
+    "beschrijving": "Compacte struik met roze bloemschermen."
+  },
+  {
+    "naam": "Vuurdoorn",
+    "latijnse_naam": "Pyracantha coccinea",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend",
+    "hoogte": 300,
+    "beschrijving": "Witte bloemen gevolgd door oranjerode bessen, vaak als haag gebruikt."
+  },
+  {
+    "naam": "Hulst",
+    "latijnse_naam": "Ilex aquifolium",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 400,
+    "beschrijving": "Groenblijvende struik met stekelig blad en rode bessen in de winter."
+  },
+  {
+    "naam": "Liguster",
+    "latijnse_naam": "Ligustrum vulgare",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 300,
+    "beschrijving": "Veelgebruikte haagplant met kleine witte bloemen."
+  },
+  {
+    "naam": "Beukenhaag",
+    "latijnse_naam": "Fagus sylvatica",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 400,
+    "beschrijving": "Houdt verdord blad in de winter, populaire haagplant."
+  },
+  {
+    "naam": "Taxus",
+    "latijnse_naam": "Taxus baccata",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 400,
+    "beschrijving": "Groenblijvende coniferenhaag, alle delen giftig behalve het rode bessenvlies."
+  },
+  {
+    "naam": "Buxus",
+    "latijnse_naam": "Buxus sempervirens",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 150,
+    "beschrijving": "Klassieke vormsnoeiplant voor borders en topiary."
+  },
+  {
+    "naam": "Sneeuwroosje",
+    "latijnse_naam": "Helleborus niger",
+    "bloei_start": "December",
+    "bloei_eind": "Februari",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, kalkrijk",
+    "hoogte": 30,
+    "beschrijving": "Wintergroen, bloeit in het diepst van de winter."
+  },
+  {
+    "naam": "Weigela",
+    "latijnse_naam": "Weigela florida",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 200,
+    "beschrijving": "Trompetvormige roze bloemen aan boogvormige takken."
+  },
+  {
+    "naam": "Sierkwee",
+    "latijnse_naam": "Chaenomeles japonica",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Oranjerode bloemen vroeg in het seizoen, gevolgd door kleine vruchten."
+  },
+  {
+    "naam": "Sneeuwspirea",
+    "latijnse_naam": "Spiraea vanhouttei",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 200,
+    "beschrijving": "Witte bloemtrosjes aan overhangende takken."
+  },
+  {
+    "naam": "Skimmia",
+    "latijnse_naam": "Skimmia japonica",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, zuur",
+    "hoogte": 100,
+    "beschrijving": "Groenblijvende struik met geurende bloemen en rode bessen."
+  },
+  {
+    "naam": "Lavendelhei",
+    "latijnse_naam": "Erica x darleyensis",
+    "bloei_start": "November",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, zuur",
+    "hoogte": 30,
+    "beschrijving": "Wintergroen bodembedekkend heideplantje, lange bloeitijd."
+  },
+  {
+    "naam": "Hortensia (Sneeuwbal-type)",
+    "latijnse_naam": "Hydrangea arborescens",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 150,
+    "beschrijving": "Grote witte bloemschermen, robuuste hortensiasoort."
+  },
+  {
+    "naam": "Pluimhortensia",
+    "latijnse_naam": "Hydrangea paniculata",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 200,
+    "beschrijving": "Kegelvormige bloemtrossen, kleurt vaak roze in het najaar."
+  },
+  {
+    "naam": "Klimhortensia",
+    "latijnse_naam": "Hydrangea petiolaris",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 800,
+    "beschrijving": "Zelfklimmende hortensia, geschikt voor muren en schuttingen."
+  },
+  {
+    "naam": "Magnolia",
+    "latijnse_naam": "Magnolia x soulangeana",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 500,
+    "beschrijving": "Grote tulpvormige bloemen vóór het blad."
+  },
+  {
+    "naam": "Camelia",
+    "latijnse_naam": "Camellia japonica",
+    "bloei_start": "Februari",
+    "bloei_eind": "April",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, zuur",
+    "hoogte": 300,
+    "beschrijving": "Groenblijvende struik met rozenvormige bloemen vroeg in het jaar."
+  },
+  {
+    "naam": "Judasboom (struikvorm)",
+    "latijnse_naam": "Cercis siliquastrum",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 400,
+    "beschrijving": "Roze peulvruchtbloemen direct aan de takken."
+  },
+  {
+    "naam": "Sierjasmijn",
+    "latijnse_naam": "Jasminum nudiflorum",
+    "bloei_start": "Januari",
+    "bloei_eind": "Maart",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 300,
+    "beschrijving": "Gele bloemen op kale takken in de winter."
+  },
+  {
+    "naam": "Clematis",
+    "latijnse_naam": "Clematis vitalba",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 500,
+    "beschrijving": "Bloemrijke klimplant, wortels graag koel en beschaduwd houden."
+  },
+  {
+    "naam": "Kamperfoelie",
+    "latijnse_naam": "Lonicera periclymenum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 400,
+    "beschrijving": "Geurende, romantische klimplant die nachtvlinders aantrekt."
+  },
+  {
+    "naam": "Blauweregen",
+    "latijnse_naam": "Wisteria sinensis",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 900,
+    "beschrijving": "Hangende paarse bloemtrossen, krachtige klimplant."
+  },
+  {
+    "naam": "Klimop",
+    "latijnse_naam": "Hedera helix",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 1000,
+    "beschrijving": "Groenblijvende zelfklimmer, bloeit onopvallend maar belangrijk voor insecten."
+  },
+  {
+    "naam": "Wilde wingerd",
+    "latijnse_naam": "Parthenocissus quinquefolia",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 1500,
+    "beschrijving": "Spectaculaire herfstkleuren, zelfklimmend op muren."
+  },
+  {
+    "naam": "Passiebloem",
+    "latijnse_naam": "Passiflora caerulea",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 400,
+    "beschrijving": "Exotisch ogende bloemen, behoeft een beschutte standplaats."
+  },
+  {
+    "naam": "Trompetbloem",
+    "latijnse_naam": "Campsis radicans",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 800,
+    "beschrijving": "Oranjerode trompetbloemen, trekt kolibrievlinders aan."
+  },
+  {
+    "naam": "Klimroos",
+    "latijnse_naam": "Rosa 'New Dawn'",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 400,
+    "beschrijving": "Zachtroze geurende rozen, geschikt voor pergola's."
+  },
+  {
+    "naam": "Rozemarijn",
+    "latijnse_naam": "Salvia rosmarinus",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Aromatische keukenkruid, groenblijvend in milde winters."
+  },
+  {
+    "naam": "Tijm",
+    "latijnse_naam": "Thymus vulgaris",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 20,
+    "beschrijving": "Laagblijvende kruidplant, geurend en bijvriendelijk."
+  },
+  {
+    "naam": "Munt",
+    "latijnse_naam": "Mentha spicata",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 50,
+    "beschrijving": "Sterk uitbreidende kruidplant, het best in een pot te houden."
+  },
+  {
+    "naam": "Basilicum",
+    "latijnse_naam": "Ocimum basilicum",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Eenjarige keukenkruid, gevoelig voor kou."
+  },
+  {
+    "naam": "Bieslook",
+    "latijnse_naam": "Allium schoenoprasum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Paarse bloembolletjes, eetbaar blad met uiensmaak."
+  },
+  {
+    "naam": "Peterselie",
+    "latijnse_naam": "Petroselinum crispum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 30,
+    "beschrijving": "Tweejarige keukenkruid, in het eerste jaar vooral blad."
+  },
+  {
+    "naam": "Citroenmelisse",
+    "latijnse_naam": "Melissa officinalis",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Citroengeurig blad, trekt bijen aan."
+  },
+  {
+    "naam": "Dragon",
+    "latijnse_naam": "Artemisia dracunculus",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 80,
+    "beschrijving": "Aromatisch keukenkruid, klassiek in de Franse keuken."
+  },
+  {
+    "naam": "Oregano",
+    "latijnse_naam": "Origanum vulgare",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Mediterraan kruid, bijvriendelijke roze bloempjes."
+  },
+  {
+    "naam": "Bonenkruid",
+    "latijnse_naam": "Satureja hortensis",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Eenjarig kruid, traditioneel gebruikt bij bonengerechten."
+  },
+  {
+    "naam": "Kervel",
+    "latijnse_naam": "Anthriscus cerefolium",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 40,
+    "beschrijving": "Fijn, anijsachtig keukenkruid, schiet snel door."
+  },
+  {
+    "naam": "Lavas",
+    "latijnse_naam": "Levisticum officinale",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 150,
+    "beschrijving": "Forse keukenkruid met selderijachtige smaak."
+  },
+  {
+    "naam": "Japanse sierkers",
+    "latijnse_naam": "Prunus serrulata",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 600,
+    "beschrijving": "Overvloedige roze bloesem in het voorjaar, populaire sierboom."
+  },
+  {
+    "naam": "Sierappel",
+    "latijnse_naam": "Malus 'Evereste'",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 500,
+    "beschrijving": "Witte bloesem gevolgd door kleine sierappeltjes."
+  },
+  {
+    "naam": "Goudenregen",
+    "latijnse_naam": "Laburnum anagyroides",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 700,
+    "beschrijving": "Hangende gele bloemtrossen, alle delen giftig."
+  },
+  {
+    "naam": "Tulpenboom",
+    "latijnse_naam": "Liriodendron tulipifera",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 2000,
+    "beschrijving": "Grote boom met tulpvormige bloemen, indrukwekkende herfstkleur."
+  },
+  {
+    "naam": "Judasboom",
+    "latijnse_naam": "Cercis canadensis",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 800,
+    "beschrijving": "Roze bloemen direct op de takken vóór het blad."
+  },
+  {
+    "naam": "Paardenkastanje",
+    "latijnse_naam": "Aesculus hippocastanum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 2500,
+    "beschrijving": "Grote kaarsvormige bloeipluimen, bekend van de kastanjes in de herfst."
+  },
+  {
+    "naam": "Linde",
+    "latijnse_naam": "Tilia cordata",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 2500,
+    "beschrijving": "Geurende bloemen, belangrijke drachtplant voor bijen."
+  },
+  {
+    "naam": "Catalpa",
+    "latijnse_naam": "Catalpa bignonioides",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 1200,
+    "beschrijving": "Grote bladeren en witte trompetbloemen in trossen."
+  },
+  {
+    "naam": "Vlinderboom",
+    "latijnse_naam": "Davidia involucrata",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 1200,
+    "beschrijving": "Witte hangende schutbladen die op vlindervleugels lijken."
+  },
+  {
+    "naam": "Sierpeer",
+    "latijnse_naam": "Pyrus calleryana",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 1000,
+    "beschrijving": "Witte bloesem, zuilvormige groeivorm, fraaie herfstkleur."
+  },
+  {
+    "naam": "Tomaat",
+    "latijnse_naam": "Solanum lycopersicum",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Eenjarig groentegewas, behoeft warmte en steun."
+  },
+  {
+    "naam": "Komkommer",
+    "latijnse_naam": "Cucumis sativus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 200,
+    "beschrijving": "Rankplant, geeft veel vrucht bij warm en vochtig weer."
+  },
+  {
+    "naam": "Courgette",
+    "latijnse_naam": "Cucurbita pepo",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 60,
+    "beschrijving": "Snelgroeiend groentegewas met grote gele bloemen."
+  },
+  {
+    "naam": "Pompoen",
+    "latijnse_naam": "Cucurbita maxima",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 40,
+    "beschrijving": "Ranke groeier die veel ruimte nodig heeft."
+  },
+  {
+    "naam": "Sla",
+    "latijnse_naam": "Lactuca sativa",
+    "bloei_start": "Niet bloeiend (als groente geoogst)",
+    "bloei_eind": "Niet bloeiend (als groente geoogst)",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 25,
+    "beschrijving": "Snelgroeiende bladgroente, schiet door bij warmte."
+  },
+  {
+    "naam": "Spinazie",
+    "latijnse_naam": "Spinacia oleracea",
+    "bloei_start": "Niet bloeiend (als groente geoogst)",
+    "bloei_eind": "Niet bloeiend (als groente geoogst)",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 25,
+    "beschrijving": "Koudetolerante bladgroente, geschikt voor vroege oogst."
+  },
+  {
+    "naam": "Wortel",
+    "latijnse_naam": "Daucus carota",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Diep, los, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Wortelgroente, bloeit pas in het tweede jaar."
+  },
+  {
+    "naam": "Ui",
+    "latijnse_naam": "Allium cepa",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 50,
+    "beschrijving": "Bolgewas, bloeit alleen als de bol niet geoogst wordt."
+  },
+  {
+    "naam": "Knoflook",
+    "latijnse_naam": "Allium sativum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Wordt geplant in het najaar, geoogst in de zomer."
+  },
+  {
+    "naam": "Boerenkool",
+    "latijnse_naam": "Brassica oleracea var. sabellica",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 80,
+    "beschrijving": "Winterharde koolsoort, smaak verbetert na vorst."
+  },
+  {
+    "naam": "Rode biet",
+    "latijnse_naam": "Beta vulgaris",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Wortelgroente met decoratief donkerrood blad."
+  },
+  {
+    "naam": "Pastinaak",
+    "latijnse_naam": "Pastinaca sativa",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Diep, los, voedingsrijk",
+    "hoogte": 150,
+    "beschrijving": "Wortelgroente met zoete, nootachtige smaak na vorst."
+  },
+  {
+    "naam": "Pompoenplant (flespompoen)",
+    "latijnse_naam": "Lagenaria siceraria",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 50,
+    "beschrijving": "Decoratieve klimmende pompoensoort, vruchten ook als sierobject te gebruiken."
+  },
+  {
+    "naam": "Stamslaboon",
+    "latijnse_naam": "Phaseolus vulgaris",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Compacte boon zonder steun, witte tot paarse bloempjes."
+  },
+  {
+    "naam": "Stokboon",
+    "latijnse_naam": "Phaseolus vulgaris var. vulgaris",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 250,
+    "beschrijving": "Rankende boon die om stokken klimt."
+  },
+  {
+    "naam": "Doperwt",
+    "latijnse_naam": "Pisum sativum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Vroege gewas met witte vlindervormige bloemen."
+  },
+  {
+    "naam": "Aardappel",
+    "latijnse_naam": "Solanum tuberosum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Los, voedingsrijk, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Knolgewas, witte of paarse bloemen boven de grond."
+  },
+  {
+    "naam": "Aardbei",
+    "latijnse_naam": "Fragaria x ananassa",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 20,
+    "beschrijving": "Bodembedekkend fruitgewas, geeft uitlopers."
+  },
+  {
+    "naam": "Framboos",
+    "latijnse_naam": "Rubus idaeus",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 180,
+    "beschrijving": "Vruchtdragende struik, behoeft steun en jaarlijkse snoei."
+  },
+  {
+    "naam": "Rabarber",
+    "latijnse_naam": "Rheum rhabarbarum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 100,
+    "beschrijving": "Grote bladstelen geoogst als groente, bladeren zijn giftig."
+  },
+  {
+    "naam": "Hertshooi",
+    "latijnse_naam": "Hypericum perforatum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog tot matig vochtig",
+    "hoogte": 60,
+    "beschrijving": "Geneeskruid met gele bloemen, van oudsher gebruikt in kruidengeneeskunde."
+  },
+  {
+    "naam": "Pluimspirea",
+    "latijnse_naam": "Astilbe x arendsii",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 80,
+    "beschrijving": "Pluimvormige bloemen in roze, wit of rood, geschikt voor vochtige border."
+  },
+  {
+    "naam": "Lisdodde",
+    "latijnse_naam": "Typha latifolia",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Natte tot moerassige grond",
+    "hoogte": 200,
+    "beschrijving": "Klassieke oeverplant met kenmerkende bruine bloeikolven."
+  },
+  {
+    "naam": "Waterlelie",
+    "latijnse_naam": "Nymphaea alba",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Waterplant, vijverbodem met voedingsrijk substraat",
+    "hoogte": 0,
+    "beschrijving": "Drijvende waterplant met grote witte bloemen."
+  },
+  {
+    "naam": "Gele lis",
+    "latijnse_naam": "Iris pseudacorus",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Natte tot moerassige grond",
+    "hoogte": 100,
+    "beschrijving": "Inheemse oeverplant met gele bloemen, geschikt voor vijverranden."
+  },
+  {
+    "naam": "Moerasspirea",
+    "latijnse_naam": "Filipendula ulmaria",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend tot natte grond",
+    "hoogte": 150,
+    "beschrijving": "Romige witte bloempluimen, geurig, groeit graag aan waterkanten."
+  },
+  {
+    "naam": "Dotterbloem",
+    "latijnse_naam": "Caltha palustris",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Natte tot moerassige grond",
+    "hoogte": 30,
+    "beschrijving": "Felgele bloemen, vroege oeverbeplanting."
+  },
+  {
+    "naam": "Pijlkruid",
+    "latijnse_naam": "Sagittaria sagittifolia",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Waterplant, ondiep water",
+    "hoogte": 50,
+    "beschrijving": "Pijlvormige bladeren, witte bloemen met paars hart."
+  },
+  {
+    "naam": "Pampagras klein",
+    "latijnse_naam": "Cortaderia selloana 'Pumila'",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 150,
+    "beschrijving": "Compacte variant van het pampagras, geschikt voor kleinere tuinen."
+  },
+  {
+    "naam": "Chinees rietgras",
+    "latijnse_naam": "Miscanthus sinensis",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 180,
+    "beschrijving": "Sierlijk siergras met pluimen, fraai in de winter."
+  },
+  {
+    "naam": "Blauwe glans",
+    "latijnse_naam": "Festuca amethystina",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog",
+    "hoogte": 30,
+    "beschrijving": "Compact siergras met blauwviolette glans."
+  },
+  {
+    "naam": "Reuzenvedergras",
+    "latijnse_naam": "Stipa gigantea",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog",
+    "hoogte": 200,
+    "beschrijving": "Hoge gouden bloeipluimen die boven de border uitsteken."
+  },
+  {
+    "naam": "Hertstong",
+    "latijnse_naam": "Asplenium scolopendrium",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, kalkrijk",
+    "hoogte": 30,
+    "beschrijving": "Wintergroene varen met lange, gladde bladeren."
+  },
+  {
+    "naam": "Moerasvaren",
+    "latijnse_naam": "Thelypteris palustris",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Halfschaduw",
+    "grond": "Natte tot moerassige grond",
+    "hoogte": 60,
+    "beschrijving": "Varen die goed gedijt in natte, voedselarme grond."
+  },
+  {
+    "naam": "Watermunt",
+    "latijnse_naam": "Mentha aquatica",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Natte tot moerassige grond",
+    "hoogte": 60,
+    "beschrijving": "Geurige oeverplant met lila bloemen, trekt insecten aan."
+  },
+  {
+    "naam": "Wolfsmelk",
+    "latijnse_naam": "Euphorbia characias",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog",
+    "hoogte": 100,
+    "beschrijving": "Sapje kan huidirritatie veroorzaken, decoratieve groengele schutbladen."
+  },
+  {
+    "naam": "Lelietje-van-dalen",
+    "latijnse_naam": "Convallaria majalis",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 20,
+    "beschrijving": "Geurende witte bloemklokjes, alle delen giftig bij inname."
+  },
+  {
+    "naam": "Vingerhoedskruid geel",
+    "latijnse_naam": "Digitalis lutea",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 80,
+    "beschrijving": "Kleinere gele klokjesbloemen, giftig bij inname."
+  },
+  {
+    "naam": "Oleander",
+    "latijnse_naam": "Nerium oleander",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 200,
+    "beschrijving": "Mediterrane potplant met fraaie bloemen, alle delen sterk giftig."
+  },
+  {
+    "naam": "Lupine giftig zaad",
+    "latijnse_naam": "Lupinus albus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 80,
+    "beschrijving": "Zaden zijn giftig in onbehandelde vorm, bloeit met witte trossen."
+  },
+  {
+    "naam": "Herfsttijloos",
+    "latijnse_naam": "Colchicum speciosum",
+    "bloei_start": "September",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 20,
+    "beschrijving": "Bloeit zonder blad in de herfst, sterk giftig bij inname."
+  },
+  {
+    "naam": "Maretak",
+    "latijnse_naam": "Viscum album",
+    "bloei_start": "Februari",
+    "bloei_eind": "April",
+    "licht": "Volle zon",
+    "grond": "Halfparasitair op boomtakken",
+    "hoogte": 50,
+    "beschrijving": "Groeit op boomtakken, bessen zijn giftig voor mensen."
+  },
+  {
+    "naam": "Stinkende gouwe",
+    "latijnse_naam": "Chelidonium majus",
+    "bloei_start": "Mei",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Geel sap kan huidirritatie geven, gele bloempjes."
+  },
+  {
+    "naam": "Christusdoorn",
+    "latijnse_naam": "Euphorbia milii",
+    "bloei_start": "Maart",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, droog",
+    "hoogte": 80,
+    "beschrijving": "Stekelige kamerplant met giftig melksap."
+  },
+  {
+    "naam": "Aronskelk",
+    "latijnse_naam": "Arum maculatum",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 30,
+    "beschrijving": "Opvallende kolfbloem, bessen zijn giftig."
+  },
+  {
+    "naam": "Cosmea",
+    "latijnse_naam": "Cosmos bipinnatus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 100,
+    "beschrijving": "Eenjarige met fijne bloemen, lange bloeitijd, populair bij bijen."
+  },
+  {
+    "naam": "Goudsbloem",
+    "latijnse_naam": "Calendula officinalis",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsarm, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Eenjarig, eetbare bloemblaadjes, lange bloeitijd."
+  },
+  {
+    "naam": "Cleome",
+    "latijnse_naam": "Cleome hassleriana",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 120,
+    "beschrijving": "Spinachtige bloemen, opvallend in zomerborder."
+  },
+  {
+    "naam": "Snapdragon",
+    "latijnse_naam": "Antirrhinum majus",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Leeuwenbekvormige bloemen in vele kleuren."
+  },
+  {
+    "naam": "Zinnia",
+    "latijnse_naam": "Zinnia elegans",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 70,
+    "beschrijving": "Kleurrijke eenjarige, populair als snijbloem."
+  },
+  {
+    "naam": "Petunia",
+    "latijnse_naam": "Petunia x hybrida",
+    "bloei_start": "Mei",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Populaire balkon- en perkplant met trompetbloemen."
+  },
+  {
+    "naam": "Stokroos",
+    "latijnse_naam": "Alcea rosea",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 200,
+    "beschrijving": "Hoge bloeispikes tegen schuttingen en muren."
+  },
+  {
+    "naam": "Klaproos",
+    "latijnse_naam": "Papaver rhoeas",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 60,
+    "beschrijving": "Inheemse veldbloem met dunne rode bloemblaadjes."
+  },
+  {
+    "naam": "Cornflower",
+    "latijnse_naam": "Centaurea cyanus",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 80,
+    "beschrijving": "Blauwe korenbloem, klassieke akkerbloem."
+  },
+  {
+    "naam": "Cosmos sulphureus",
+    "latijnse_naam": "Cosmos sulphureus",
+    "bloei_start": "Juli",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 80,
+    "beschrijving": "Oranjegele bloemen, trekt vlinders en bijen aan."
+  },
+  {
+    "naam": "Afrikaantje",
+    "latijnse_naam": "Tagetes patula",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Veelgebruikte perkplant, houdt sommige insecten op afstand."
+  },
+  {
+    "naam": "Ridderspoor eenjarig",
+    "latijnse_naam": "Consolida ajacis",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 90,
+    "beschrijving": "Fijne bloeispikes, eenjarige variant van ridderspoor."
+  },
+  {
+    "naam": "Leeuwenbek",
+    "latijnse_naam": "Linaria maroccana",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 40,
+    "beschrijving": "Kleine, fijne bloempjes in vele kleuren."
+  },
+  {
+    "naam": "Hemelsbloem",
+    "latijnse_naam": "Nigella damascena",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 50,
+    "beschrijving": "Blauwe bloemen met sierlijk, doorzichtig blad, decoratieve zaaddozen."
+  },
+  {
+    "naam": "Driekleurig viooltje",
+    "latijnse_naam": "Viola tricolor",
+    "bloei_start": "April",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 15,
+    "beschrijving": "Kleine, vrolijke bloempjes, lange bloeitijd."
+  },
+  {
+    "naam": "Vergeet-mij-nietje",
+    "latijnse_naam": "Myosotis sylvatica",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 20,
+    "beschrijving": "Kleine blauwe bloempjes, zelfzaaiend."
+  },
+  {
+    "naam": "Margriet eenjarig",
+    "latijnse_naam": "Argyranthemum frutescens",
+    "bloei_start": "Mei",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 50,
+    "beschrijving": "Lang bloeiende potplant met witte bloemen."
+  },
+  {
+    "naam": "Lobelia",
+    "latijnse_naam": "Lobelia erinus",
+    "bloei_start": "Mei",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 15,
+    "beschrijving": "Kleine blauwe bloempjes, populair in hangmanden."
+  },
+  {
+    "naam": "Snijbiet sier",
+    "latijnse_naam": "Beta vulgaris var. cicla",
+    "bloei_start": "Niet bloeiend (als sierplant geoogst)",
+    "bloei_eind": "Niet bloeiend (als sierplant geoogst)",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 50,
+    "beschrijving": "Kleurrijke bladstelen, ook als sierplant in border gebruikt."
+  },
+  {
+    "naam": "Strobloem",
+    "latijnse_naam": "Xerochrysum bracteatum",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 70,
+    "beschrijving": "Papierachtige bloemen, populair als droogbloem."
+  },
+  {
+    "naam": "Vredeslelie",
+    "latijnse_naam": "Spathiphyllum wallisii",
+    "bloei_start": "Mei",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijke potgrond",
+    "hoogte": 50,
+    "beschrijving": "Populaire kamerplant met witte schutblad-bloemen, houdt van vochtige lucht."
+  },
+  {
+    "naam": "Vlinderorchidee",
+    "latijnse_naam": "Phalaenopsis hybride",
+    "bloei_start": "Januari",
+    "bloei_eind": "April",
+    "licht": "Halfschaduw",
+    "grond": "Speciale orchideeënmix, goed doorlatend",
+    "hoogte": 40,
+    "beschrijving": "Bloeit vaak meerdere maanden achter elkaar, geen direct zonlicht."
+  },
+  {
+    "naam": "Lepelplant",
+    "latijnse_naam": "Spathiphyllum 'Sensation'",
+    "bloei_start": "April",
+    "bloei_eind": "September",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, voedingsrijke potgrond",
+    "hoogte": 80,
+    "beschrijving": "Grootbladige variant van de vredeslelie, filtert binnenlucht."
+  },
+  {
+    "naam": "Vetplant Echeveria",
+    "latijnse_naam": "Echeveria elegans",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Cactus- en succulentengrond, goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Rozetvormige vetplant, weinig water nodig."
+  },
+  {
+    "naam": "Slangenplant",
+    "latijnse_naam": "Sansevieria trifasciata",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 80,
+    "beschrijving": "Zeer onderhoudsarme kamerplant, verdraagt periodes van droogte."
+  },
+  {
+    "naam": "Monstera",
+    "latijnse_naam": "Monstera deliciosa",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijke potgrond, goed doorlatend",
+    "hoogte": 250,
+    "beschrijving": "Klimplant met kenmerkende ingesneden bladeren."
+  },
+  {
+    "naam": "Vingerplant",
+    "latijnse_naam": "Schefflera arboricola",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijke potgrond, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Glanzend handvormig blad, populaire kantoorplant."
+  },
+  {
+    "naam": "Drakenboom",
+    "latijnse_naam": "Dracaena marginata",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 180,
+    "beschrijving": "Smalle bladrozetten op kale stam, zeer onderhoudsarm."
+  },
+  {
+    "naam": "Aloë vera",
+    "latijnse_naam": "Aloe vera",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Volle zon",
+    "grond": "Cactus- en succulentengrond, goed doorlatend",
+    "hoogte": 60,
+    "beschrijving": "Vetplant met helend gel in de bladeren, weinig water nodig."
+  },
+  {
+    "naam": "Vlieg­envanger",
+    "latijnse_naam": "Dionaea muscipula",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Voedingsarm, vochthoudend, zuur veenmos",
+    "hoogte": 15,
+    "beschrijving": "Vleesetende plant, klemvormige bladeren vangen insecten."
+  },
+  {
+    "naam": "Olifantsoor",
+    "latijnse_naam": "Alocasia x amazonica",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijke potgrond",
+    "hoogte": 90,
+    "beschrijving": "Decoratief, pijlvormig blad met sterke nerftekening."
+  },
+  {
+    "naam": "Vioolbladplant",
+    "latijnse_naam": "Ficus lyrata",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijke potgrond, goed doorlatend",
+    "hoogte": 200,
+    "beschrijving": "Grote, viooltvormige glanzende bladeren, populaire interieurplant."
+  },
+  {
+    "naam": "Vredesplant Anthurium",
+    "latijnse_naam": "Anthurium andraeanum",
+    "bloei_start": "Maart",
+    "bloei_eind": "Oktober",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijke potgrond",
+    "hoogte": 50,
+    "beschrijving": "Glanzend rood schutblad rond een gele bloeikolf."
+  },
+  {
+    "naam": "Vetplant Crassula",
+    "latijnse_naam": "Crassula ovata",
+    "bloei_start": "Januari",
+    "bloei_eind": "Maart",
+    "licht": "Volle zon",
+    "grond": "Cactus- en succulentengrond, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Ook wel pannenkoekplant genoemd, kan vele jaren oud worden."
+  },
+  {
+    "naam": "Cactus Goudbal",
+    "latijnse_naam": "Echinocactus grusonii",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Cactusgrond, zeer goed doorlatend",
+    "hoogte": 50,
+    "beschrijving": "Bolvormige cactus met gele doorns, traaggroeiend."
+  },
+  {
+    "naam": "Kerstcactus",
+    "latijnse_naam": "Schlumbergera x buckleyi",
+    "bloei_start": "November",
+    "bloei_eind": "Januari",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Bloeit met felroze bloemen rond de kerstperiode."
+  },
+  {
+    "naam": "Paascactus",
+    "latijnse_naam": "Hatiora gaertneri",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Verwant aan de kerstcactus, bloeit rond Pasen."
+  },
+  {
+    "naam": "Vetplant Haworthia",
+    "latijnse_naam": "Haworthia fasciata",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Cactus- en succulentengrond, goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Kleine vetplant met witte streeppatronen op het blad."
+  },
+  {
+    "naam": "Wandelende jood",
+    "latijnse_naam": "Tradescantia zebrina",
+    "bloei_start": "Mei",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijke potgrond",
+    "hoogte": 20,
+    "beschrijving": "Hangplant met zilverpaars gestreept blad."
+  },
+  {
+    "naam": "Gatenplant",
+    "latijnse_naam": "Monstera adansonii",
+    "bloei_start": "Niet bloeiend (zelden binnenshuis)",
+    "bloei_eind": "Niet bloeiend (zelden binnenshuis)",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijke potgrond, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Klimmende plant met gaatjes in het blad."
+  },
+  {
+    "naam": "Varenpalm",
+    "latijnse_naam": "Nephrolepis exaltata",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 60,
+    "beschrijving": "Klassieke hangende kamervaren, houdt van vochtige lucht."
+  },
+  {
+    "naam": "Theehybride roos",
+    "latijnse_naam": "Rosa 'Peace'",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 100,
+    "beschrijving": "Klassieke geel-roze roos, populair als snijbloem."
+  },
+  {
+    "naam": "Bodembedekkende roos",
+    "latijnse_naam": "Rosa 'The Fairy'",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 50,
+    "beschrijving": "Lage, breed uitgroeiende roos met kleine roze bloemtrosjes."
+  },
+  {
+    "naam": "Heesterroos",
+    "latijnse_naam": "Rosa 'Bonica'",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 120,
+    "beschrijving": "Robuuste, ziekteresistente roos met zachtroze bloemen."
+  },
+  {
+    "naam": "Rimpelroos",
+    "latijnse_naam": "Rosa rugosa",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 150,
+    "beschrijving": "Sterke, winterharde roos met grote rode bottels in de herfst."
+  },
+  {
+    "naam": "Engelse roos",
+    "latijnse_naam": "Rosa 'Gertrude Jekyll'",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 120,
+    "beschrijving": "Sterk geurende, klassiek gevormde rozetbloemen."
+  },
+  {
+    "naam": "Trosroos",
+    "latijnse_naam": "Rosa 'Iceberg'",
+    "bloei_start": "Juni",
+    "bloei_eind": "Oktober",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 90,
+    "beschrijving": "Zuiver witte bloemen in trossen, lange bloeitijd."
+  },
+  {
+    "naam": "Stamroos",
+    "latijnse_naam": "Rosa 'Queen Elizabeth'",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Hoge, rechtopgaande roos met grote roze bloemen."
+  },
+  {
+    "naam": "Theeroos Mini",
+    "latijnse_naam": "Rosa chinensis minima",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 30,
+    "beschrijving": "Kleinblijvende roos, geschikt voor potten en randen."
+  },
+  {
+    "naam": "Blauwspar",
+    "latijnse_naam": "Picea pungens 'Glauca'",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 1500,
+    "beschrijving": "Blauwgrijze naalden, populaire sierconifeer."
+  },
+  {
+    "naam": "Jeneverbes",
+    "latijnse_naam": "Juniperus communis",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 300,
+    "beschrijving": "Inheemse conifeer met blauwzwarte bessen, gebruikt bij jeneverproductie."
+  },
+  {
+    "naam": "Levensboom",
+    "latijnse_naam": "Thuja occidentalis",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 600,
+    "beschrijving": "Veelgebruikte haagconifeer, dichte groeivorm."
+  },
+  {
+    "naam": "Schijncipres",
+    "latijnse_naam": "Chamaecyparis lawsoniana",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 1500,
+    "beschrijving": "Sierlijke conifeer met hangende takuiteinden."
+  },
+  {
+    "naam": "Zilverspar",
+    "latijnse_naam": "Abies alba",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 3000,
+    "beschrijving": "Grote, statige naaldboom, vaak gebruikt als kerstboom."
+  },
+  {
+    "naam": "Grove den",
+    "latijnse_naam": "Pinus sylvestris",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend, voedingsarm",
+    "hoogte": 2500,
+    "beschrijving": "Inheemse naaldboom met kenmerkende oranjerode schors."
+  },
+  {
+    "naam": "Treurcipres",
+    "latijnse_naam": "Chamaecyparis nootkatensis 'Pendula'",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 800,
+    "beschrijving": "Hangende, sierlijke groeivorm, opvallende solitair."
+  },
+  {
+    "naam": "Dwergmuts den",
+    "latijnse_naam": "Pinus mugo 'Mops'",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 80,
+    "beschrijving": "Compacte bolvormige conifeer, geschikt voor kleine tuinen."
+  },
+  {
+    "naam": "Taxodium",
+    "latijnse_naam": "Taxodium distichum",
+    "bloei_start": "Niet bloeiend (kegeldragend)",
+    "bloei_eind": "Niet bloeiend (kegeldragend)",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend tot natte grond",
+    "hoogte": 2500,
+    "beschrijving": "Moerascipres, verliest naalden in de winter, fraaie herfstkleur."
+  },
+  {
+    "naam": "Ginkgo",
+    "latijnse_naam": "Ginkgo biloba",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 2000,
+    "beschrijving": "Levend fossiel met waaiervormig blad, prachtige gele herfstkleur."
+  },
+  {
+    "naam": "Muurpeper",
+    "latijnse_naam": "Sedum acre",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend, voedingsarm",
+    "hoogte": 10,
+    "beschrijving": "Lage bodembedekkende vetplant, goed voor droge muurtjes en daken."
+  },
+  {
+    "naam": "Rotssteenkruid",
+    "latijnse_naam": "Aubrieta x cultorum",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, kalkrijk",
+    "hoogte": 10,
+    "beschrijving": "Vormt dichte paarse bloementapijten op rotspartijen."
+  },
+  {
+    "naam": "Zandkers",
+    "latijnse_naam": "Arabis caucasica",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 15,
+    "beschrijving": "Witte bloemen, geschikt voor rotstuinen en muurtjes."
+  },
+  {
+    "naam": "Hoefblad steenbreek",
+    "latijnse_naam": "Saxifraga x arendsii",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Kussenvormige rotsplant met sterbloempjes."
+  },
+  {
+    "naam": "Vetkruid",
+    "latijnse_naam": "Sedum spurium",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Bodembedekkende vetplant, geschikt voor groendaken."
+  },
+  {
+    "naam": "Blauwkussen",
+    "latijnse_naam": "Aubrieta deltoidea",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, kalkrijk",
+    "hoogte": 10,
+    "beschrijving": "Dichte blauwpaarse bloemkussens vroeg in het voorjaar."
+  },
+  {
+    "naam": "Vetmuur",
+    "latijnse_naam": "Sagina subulata",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, goed doorlatend",
+    "hoogte": 5,
+    "beschrijving": "Mosachtige bodembedekker, alternatief voor gazon op kleine schaal."
+  },
+  {
+    "naam": "Zonneroosje",
+    "latijnse_naam": "Helianthemum nummularium",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend, kalkrijk",
+    "hoogte": 20,
+    "beschrijving": "Laagblijvende plant met veel kleine bloemen, ideaal voor rotstuin."
+  },
+  {
+    "naam": "IJsplant",
+    "latijnse_naam": "Delosperma cooperi",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 10,
+    "beschrijving": "Winterharde vetplant met felroze bloemen, goed droogtebestendig."
+  },
+  {
+    "naam": "Kruipend zenegroen",
+    "latijnse_naam": "Ajuga reptans",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 15,
+    "beschrijving": "Bodembedekker met donker blad en blauwpaarse bloeispikes."
+  },
+  {
+    "naam": "Judaspenning kruipend",
+    "latijnse_naam": "Lysimachia nummularia",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 5,
+    "beschrijving": "Kruipende bodembedekker met gele bloempjes, ook geschikt voor potranden."
+  },
+  {
+    "naam": "Schapengras kruipend",
+    "latijnse_naam": "Thymus serpyllum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 5,
+    "beschrijving": "Geurig kruipend tijmsoort, verdraagt belopen worden."
+  },
+  {
+    "naam": "Bosgeelster",
+    "latijnse_naam": "Gagea lutea",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 15,
+    "beschrijving": "Kleine gele stervormige bloempjes in loofbossen."
+  },
+  {
+    "naam": "Salomonszegel",
+    "latijnse_naam": "Polygonatum multiflorum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 50,
+    "beschrijving": "Hangende witte klokjesbloemen aan boogvormige stengels."
+  },
+  {
+    "naam": "Schaduwgras",
+    "latijnse_naam": "Luzula sylvatica",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 40,
+    "beschrijving": "Bosgras, goed bestand tegen droge schaduw onder bomen."
+  },
+  {
+    "naam": "Bosanjelier",
+    "latijnse_naam": "Lychnis flos-cuculi",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 50,
+    "beschrijving": "Fijne roze franjebloemen, groeit graag in vochtige graslanden."
+  },
+  {
+    "naam": "Heksenkruid",
+    "latijnse_naam": "Circaea lutetiana",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 40,
+    "beschrijving": "Onopvallende bosplant met kleine witte bloempjes."
+  },
+  {
+    "naam": "Bosanemoon grootbloemig",
+    "latijnse_naam": "Anemone sylvestris",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, kalkrijk",
+    "hoogte": 30,
+    "beschrijving": "Grotere witte bloemen dan de gewone bosanemoon."
+  },
+  {
+    "naam": "Schaduwklokje",
+    "latijnse_naam": "Campanula latifolia",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Hoge klokvormige bloemen, geschikt voor schaduwrijke borders."
+  },
+  {
+    "naam": "Look-zonder-look",
+    "latijnse_naam": "Alliaria petiolata",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, vochthoudend",
+    "hoogte": 60,
+    "beschrijving": "Tweejarige plant met knoflookgeurig blad, eetbaar."
+  },
+  {
+    "naam": "Boshyacint",
+    "latijnse_naam": "Hyacinthoides non-scripta",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 30,
+    "beschrijving": "Vormt blauwe bloementapijten in oude loofbossen."
+  },
+  {
+    "naam": "Bosviooltje",
+    "latijnse_naam": "Viola riviniana",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 10,
+    "beschrijving": "Klein inheems viooltje met paarse bloempjes in bosranden."
+  },
+  {
+    "naam": "Heksenkers",
+    "latijnse_naam": "Actaea pachypoda",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, humusrijk",
+    "hoogte": 60,
+    "beschrijving": "Witte bloeipluim, gevolgd door opvallende witte bessen met zwarte stip; giftig."
+  },
+  {
+    "naam": "Schaduwgeranium",
+    "latijnse_naam": "Geranium phaeum",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Schaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Donkerpaarse bloemen, goed bestand tegen droge schaduw."
+  },
+  {
+    "naam": "Vlambloem kruipend",
+    "latijnse_naam": "Phlox subulata",
+    "bloei_start": "April",
+    "bloei_eind": "Mei",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 15,
+    "beschrijving": "Kruipende bodembedekker met dichte bloementapijten."
+  },
+  {
+    "naam": "Kogelallium",
+    "latijnse_naam": "Allium sphaerocephalon",
+    "bloei_start": "Juli",
+    "bloei_eind": "Augustus",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Kleine eivormige bloemhoofden in donkerpaars."
+  },
+  {
+    "naam": "Sierajuga",
+    "latijnse_naam": "Ajuga reptans 'Atropurpurea'",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 15,
+    "beschrijving": "Donkerpaars blad, dichte bodembedekker met blauwe bloemspikes."
+  },
+  {
+    "naam": "Sierui Karatavense",
+    "latijnse_naam": "Allium karataviense",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 25,
+    "beschrijving": "Brede, decoratieve bladeren met grote bolvormige bloemschermen."
+  },
+  {
+    "naam": "Schermscherm",
+    "latijnse_naam": "Astrantia major",
+    "bloei_start": "Juni",
+    "bloei_eind": "Augustus",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Sterachtige schutbladen rond kleine bloemschermpjes."
+  },
+  {
+    "naam": "Hertshooi sierlijk",
+    "latijnse_naam": "Hypericum calycinum",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Halfschaduw",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 30,
+    "beschrijving": "Bodembedekkende heester met grote gele bloemen."
+  },
+  {
+    "naam": "Beemdooievaarsbek",
+    "latijnse_naam": "Geranium pratense",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 70,
+    "beschrijving": "Blauwpaarse bloemen, inheemse weideplant."
+  },
+  {
+    "naam": "Bergsteenbreek",
+    "latijnse_naam": "Bergenia cordifolia",
+    "bloei_start": "Maart",
+    "bloei_eind": "April",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 40,
+    "beschrijving": "Groot, leerachtig blad en vroege roze bloemtrossen."
+  },
+  {
+    "naam": "Vrouwenschoentje",
+    "latijnse_naam": "Cypripedium calceolus",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, kalkrijk",
+    "hoogte": 40,
+    "beschrijving": "Zeldzame inheemse orchidee met geel-bruine schoenvormige bloem."
+  },
+  {
+    "naam": "Maanviooltje",
+    "latijnse_naam": "Lunaria annua",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, goed doorlatend",
+    "hoogte": 80,
+    "beschrijving": "Paarse bloemen gevolgd door decoratieve ronde zilveren zaaddozen."
+  },
+  {
+    "naam": "Slangenkruid",
+    "latijnse_naam": "Echium vulgare",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Droog, goed doorlatend",
+    "hoogte": 80,
+    "beschrijving": "Felblauwe bloeispikes, zeer in trek bij bijen."
+  },
+  {
+    "naam": "IJzerkruid",
+    "latijnse_naam": "Verbena officinalis",
+    "bloei_start": "Juli",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsarm",
+    "hoogte": 60,
+    "beschrijving": "Onopvallende paarse bloempjes, van oudsher gebruikt als geneeskruid."
+  },
+  {
+    "naam": "Adderwortel",
+    "latijnse_naam": "Persicaria bistorta",
+    "bloei_start": "Mei",
+    "bloei_eind": "Juli",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 60,
+    "beschrijving": "Roze cilindervormige bloeiaren, groeit graag in vochtig grasland."
+  },
+  {
+    "naam": "Maanzaadpapaver",
+    "latijnse_naam": "Papaver somniferum",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Goed doorlatend, voedingsrijk",
+    "hoogte": 100,
+    "beschrijving": "Grote paarsroze bloemen; zaad wordt culinair gebruikt, onbewerkte plant bevat verboden stoffen."
+  },
+  {
+    "naam": "Watergentiaan",
+    "latijnse_naam": "Nymphoides peltata",
+    "bloei_start": "Juni",
+    "bloei_eind": "September",
+    "licht": "Volle zon",
+    "grond": "Waterplant, vijverbodem",
+    "hoogte": 0,
+    "beschrijving": "Drijvende waterplant met gele bloemen, kleine waterlelie-achtige bladeren."
   }
 ]
