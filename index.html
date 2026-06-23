@@ -6,9 +6,6 @@
 <title>Plantenzoeker — vind de juiste plant voor jouw tuin</title>
 <meta name="description" content="Zoek planten op naam en bekijk bloeiperiode, lichtbehoefte en grondsoort.">
 <meta name="color-scheme" content="light">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,560;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg: #F7F4EC;
@@ -24,7 +21,7 @@
     margin:0;
     background:var(--bg);
     color:var(--ink);
-    font-family:'Inter', sans-serif;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing:antialiased;
   }
   .wrap{max-width:920px;margin:0 auto;padding:0 24px;}
@@ -35,8 +32,8 @@
     color:var(--leaf);font-weight:600;margin-bottom:14px;
   }
   h1{
-    font-family:'Fraunces', serif;
-    font-weight:560;
+    font-family:Georgia, 'Times New Roman', serif;
+    font-weight:600;
     font-size:clamp(34px,5vw,54px);
     line-height:1.05;
     margin:0 0 14px;
@@ -59,7 +56,7 @@
   .search-box svg{flex-shrink:0;color:var(--earth);}
   .search-box input{
     border:none;outline:none;background:transparent;
-    font-family:'Inter',sans-serif;font-size:16px;color:var(--ink);width:100%;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;font-size:16px;color:var(--ink);width:100%;
   }
   .search-box input::placeholder{color:#9a9a8c;}
 
@@ -68,6 +65,86 @@
     margin-top:18px;font-size:14px;color:#7a7a6d;
   }
   .count-row strong{color:var(--ink);}
+
+  .filters{
+    margin-top:18px;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:20px 22px 6px;
+  }
+  .filter-group{padding-bottom:18px;}
+  .filter-group + .filter-group{border-top:1px solid var(--line);padding-top:18px;}
+  .filter-head{
+    display:flex;align-items:center;justify-content:space-between;
+    margin-bottom:11px;
+  }
+  .filter-title{
+    font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--leaf);font-weight:600;
+  }
+  .filter-clear{
+    font-size:12px;color:var(--earth);background:none;border:none;
+    cursor:pointer;font-weight:600;padding:2px 4px;text-decoration:underline;
+    text-decoration-color:transparent;transition:text-decoration-color .15s ease;
+  }
+  .filter-clear:hover{text-decoration-color:var(--earth);}
+  .filter-clear:disabled{opacity:0;pointer-events:none;}
+
+  .pill-row{display:flex;gap:7px;flex-wrap:wrap;}
+  .pill{
+    border:1.5px solid var(--line);
+    background:#F8F6EF;
+    color:var(--ink);
+    border-radius:20px;
+    padding:7px 14px;
+    font-size:13px;
+    font-weight:500;
+    cursor:pointer;
+    transition:all .15s ease;
+    font-family:inherit;
+    white-space:nowrap;
+  }
+  .pill:hover{border-color:var(--leaf);}
+  .pill.active{
+    background:var(--leaf);
+    border-color:var(--leaf);
+    color:#fff;
+    font-weight:600;
+  }
+
+  .month-filter-row{display:flex;gap:4px;}
+  .month-pill{
+    flex:1;
+    border:1.5px solid var(--line);
+    background:#F8F6EF;
+    color:#9a9a8c;
+    border-radius:8px;
+    padding:8px 0;
+    font-size:11.5px;
+    font-weight:600;
+    cursor:pointer;
+    text-align:center;
+    transition:all .15s ease;
+    font-family:inherit;
+  }
+  .month-filter-row .month-pill:hover{border-color:var(--leaf);color:var(--ink);}
+  .month-filter-row .month-pill.active{
+    background:var(--ochre);
+    border-color:var(--ochre);
+    color:var(--ink);
+  }
+
+  .height-row{display:flex;align-items:center;gap:14px;}
+  .height-row input[type="range"]{
+    flex:1;
+    accent-color:var(--leaf);
+    height:4px;
+  }
+  .height-readout{
+    font-size:13px;font-weight:600;color:var(--ink);
+    white-space:nowrap;min-width:118px;text-align:right;
+  }
 
   .grid{
     display:grid;
@@ -87,8 +164,8 @@
   .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(43,58,41,0.08);}
 
   .card h3{
-    font-family:'Fraunces',serif;
-    font-weight:650;
+    font-family:Georgia, 'Times New Roman', serif;
+    font-weight:700;
     font-size:22px;
     margin:0;
     line-height:1.2;
@@ -184,6 +261,43 @@
       <span><strong id="count">0</strong> planten gevonden</span>
       <span id="total-label"></span>
     </div>
+
+    <div class="filters">
+      <div class="filter-group">
+        <div class="filter-head">
+          <span class="filter-title">Bloeit in</span>
+          <button class="filter-clear" id="clear-maand" type="button">Wissen</button>
+        </div>
+        <div class="month-filter-row" id="maand-filters"></div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-head">
+          <span class="filter-title">Lichtbehoefte</span>
+          <button class="filter-clear" id="clear-licht" type="button">Wissen</button>
+        </div>
+        <div class="pill-row" id="licht-filters"></div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-head">
+          <span class="filter-title">Grondsoort</span>
+          <button class="filter-clear" id="clear-grond" type="button">Wissen</button>
+        </div>
+        <div class="pill-row" id="grond-filters"></div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-head">
+          <span class="filter-title">Maximale hoogte</span>
+          <button class="filter-clear" id="clear-hoogte" type="button">Wissen</button>
+        </div>
+        <div class="height-row">
+          <input type="range" id="hoogte-slider" min="0" max="3000" step="10" value="3000">
+          <span class="height-readout" id="hoogte-readout">Tot 3000 cm</span>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div id="grid" class="grid"></div>
@@ -267,19 +381,121 @@ function escapeHTML(str){
 
 let ALL_PLANTS = [];
 
+const GROND_KENMERKEN = [
+  "Voedingsrijk", "Voedingsarm", "Goed doorlatend",
+  "Vochthoudend", "Droog", "Kalkrijk", "Humusrijk", "Zuur"
+];
+
+const filterState = {
+  maand: null,      // 0-11 of null
+  licht: new Set(), // bv. {"Volle zon"}
+  grond: new Set(), // bv. {"voedingsrijk"}
+  hoogteMax: 3000
+};
+
 function matchesQuery(p, q){
   if(!q) return true;
   const haystack = [p.naam, p.latijnse_naam].join(' ').toLowerCase();
   return q.toLowerCase().split(/\s+/).every(term => haystack.includes(term));
 }
 
+function matchesMaand(p){
+  if(filterState.maand === null) return true;
+  return bloeiMaanden(p.bloei_start, p.bloei_eind).includes(filterState.maand);
+}
+
+function matchesLicht(p){
+  if(filterState.licht.size === 0) return true;
+  return filterState.licht.has(p.licht);
+}
+
+function matchesGrond(p){
+  if(filterState.grond.size === 0) return true;
+  const g = (p.grond || '').toLowerCase();
+  return [...filterState.grond].every(term => g.includes(term));
+}
+
+function matchesHoogte(p){
+  const h = Number(p.hoogte) || 0;
+  return h <= filterState.hoogteMax;
+}
+
+function buildMaandFilters(){
+  const LETTERS = ["J","F","M","A","M","J","J","A","S","O","N","D"];
+  const wrap = document.getElementById('maand-filters');
+  wrap.innerHTML = LETTERS.map((l, i) =>
+    `<button type="button" class="month-pill" data-maand="${i}" title="${MAANDEN[i]}">${l}</button>`
+  ).join('');
+  wrap.querySelectorAll('.month-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const m = Number(btn.dataset.maand);
+      filterState.maand = (filterState.maand === m) ? null : m;
+      render();
+    });
+  });
+}
+
+function buildLichtFilters(){
+  const opties = ["Volle zon", "Halfschaduw", "Schaduw"];
+  const wrap = document.getElementById('licht-filters');
+  wrap.innerHTML = opties.map(o =>
+    `<button type="button" class="pill" data-licht="${escapeHTML(o)}">${escapeHTML(o)}</button>`
+  ).join('');
+  wrap.querySelectorAll('.pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const val = btn.dataset.licht;
+      if(filterState.licht.has(val)) filterState.licht.delete(val);
+      else filterState.licht.add(val);
+      render();
+    });
+  });
+}
+
+function buildGrondFilters(){
+  const wrap = document.getElementById('grond-filters');
+  wrap.innerHTML = GROND_KENMERKEN.map(o =>
+    `<button type="button" class="pill" data-grond="${o.toLowerCase()}">${escapeHTML(o)}</button>`
+  ).join('');
+  wrap.querySelectorAll('.pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const val = btn.dataset.grond;
+      if(filterState.grond.has(val)) filterState.grond.delete(val);
+      else filterState.grond.add(val);
+      render();
+    });
+  });
+}
+
+function syncFilterUI(){
+  document.querySelectorAll('.month-pill').forEach(btn => {
+    btn.classList.toggle('active', Number(btn.dataset.maand) === filterState.maand);
+  });
+  document.querySelectorAll('#licht-filters .pill').forEach(btn => {
+    btn.classList.toggle('active', filterState.licht.has(btn.dataset.licht));
+  });
+  document.querySelectorAll('#grond-filters .pill').forEach(btn => {
+    btn.classList.toggle('active', filterState.grond.has(btn.dataset.grond));
+  });
+  document.getElementById('hoogte-slider').value = filterState.hoogteMax;
+  document.getElementById('hoogte-readout').textContent =
+    filterState.hoogteMax >= 3000 ? 'Tot 3000 cm' : `Tot ${filterState.hoogteMax} cm`;
+
+  document.getElementById('clear-maand').disabled = filterState.maand === null;
+  document.getElementById('clear-licht').disabled = filterState.licht.size === 0;
+  document.getElementById('clear-grond').disabled = filterState.grond.size === 0;
+  document.getElementById('clear-hoogte').disabled = filterState.hoogteMax >= 3000;
+}
+
 function render(){
   const q = document.getElementById('search').value.trim();
-  const filtered = ALL_PLANTS.filter(p => matchesQuery(p, q));
+  const filtered = ALL_PLANTS.filter(p =>
+    matchesQuery(p, q) && matchesMaand(p) && matchesLicht(p) && matchesGrond(p) && matchesHoogte(p)
+  );
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
 
   document.getElementById('count').textContent = filtered.length;
+  syncFilterUI();
 
   if(filtered.length === 0){
     grid.innerHTML = '';
@@ -289,6 +505,20 @@ function render(){
     grid.innerHTML = filtered.map(cardHTML).join('');
   }
 }
+
+buildMaandFilters();
+buildLichtFilters();
+buildGrondFilters();
+
+document.getElementById('hoogte-slider').addEventListener('input', (e) => {
+  filterState.hoogteMax = Number(e.target.value);
+  render();
+});
+
+document.getElementById('clear-maand').addEventListener('click', () => { filterState.maand = null; render(); });
+document.getElementById('clear-licht').addEventListener('click', () => { filterState.licht.clear(); render(); });
+document.getElementById('clear-grond').addEventListener('click', () => { filterState.grond.clear(); render(); });
+document.getElementById('clear-hoogte').addEventListener('click', () => { filterState.hoogteMax = 3000; render(); });
 
 fetch('planten.json')
   .then(r => r.json())
