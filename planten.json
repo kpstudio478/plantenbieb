@@ -3528,5 +3528,37 @@
     "grond": "Voedingsarm, goed doorlatend",
     "hoogte": 2000,
     "beschrijving": "Inheemse boom met witte schors en hangende takken, herfstkleur geel."
+   },
+  {
+    "naam": "Asperge",
+    "latijnse_naam": "Asparagus officinalis",
+    "bloei_start": "Juni",
+    "bloei_eind": "Juli",
+    "licht": "Volle zon",
+    "grond": "Diep, voedingsrijk, goed doorlatend",
+    "hoogte": 150,
+    "beschrijving": "Meerjarige groente met eetbare scheuten, heeft enkele jaren nodig om te vestigen."
+  },
+  {
+    "naam": "Bamboe",
+    "latijnse_naam": "Fargesia robusta",
+    "bloei_start": "Niet bloeiend",
+    "bloei_eind": "Niet bloeiend",
+    "licht": "Halfschaduw",
+    "grond…er",
+    "licht": "Halfschaduw",
+    "grond": "Voedingsrijk, stikstofrijk",
+    "hoogte": 120,
+    "beschrijving": "Inheemse plant met brandharen, waardplant voor veel vlindersoorten."
+  },
+  {
+    "naam": "Hondsdraf",
+    "latijnse_naam": "Glechoma hederacea",
+    "bloei_start": "April",
+    "bloei_eind": "Juni",
+    "licht": "Halfschaduw",
+    "grond": "Vochthoudend, voedingsrijk",
+    "hoogte": 15,
+    "beschrijving": "Kruipend inheems kruid met blauwpaarse bloemen en muntachtige geur."
   }
 ]
